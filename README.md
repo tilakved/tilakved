@@ -12,6 +12,13 @@
 - 💬 Ask me about **React, Angular and Javascript**
 
 - 📫 How to reach me **tilakved3898@gmail.com**
+<h3>About me:</h3>
+<p>I have over three years of experience developing cutting-edge and captivating online applications as a front end developer. My area of expertise is creating dynamic, user-friendly interfaces that satisfy the needs of organizations and users using React, Angular, Node.js, and Express.</p>
+<br>
+<p>I started off as a self-taught web developer since I had a strong desire to learn new things and I loved technology. Using W3Schools and YouTube courses, I immersed myself in the complexities of web programming, learning everything I could. I now have a solid foundation in web development principles and a lifelong love of learning thanks to this self-driven study.
+</p>
+<br>
+<p>My work experience has given me the opportunity to put my abilities to use in actual projects, working with creative teams to produce top-notch web solutions. I am skilled at adjusting to various project requirements and approaches while working both independently and collaboratively.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
