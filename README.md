@@ -7,7 +7,7 @@
 
 - ❓ Ask me about **anything related to Frontend and related technologies**
 
-- 👨‍💻 All of my projects are available at [https://tilak-ved.web.app/](https://tilak-ved.web.app/)
+- 👨‍💻 All of my projects are available at [https://tilakved.vercel.app/](https://tilakved.vercel.app/)
 
 - 💬 Ask me about **React, Angular and Javascript**
 
